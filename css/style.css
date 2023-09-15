@@ -7,15 +7,15 @@ body {
   background-repeat: repeat;
   background-position: center;
   position: relative;
-  
 }
+
 header {
   text-align: center;
   background-color: #fafafa;
   
 }
 section {
-  background-color: #fafafa;
+  background-color: #f1f1f1;
   padding: 15px;
   width: 571px;
   height: auto;
@@ -28,11 +28,15 @@ section {
 div.header h2 {
   margin: 0;
   padding-left: 3px;
+  color: #424141;
 }
 .box .header .date {
   float: right;
   align-items: center;
-  font-size: 20px;
+  font-size: 15px;
+  color: #7c7c7c;
+  text-decoration: underline;
+  
 }
 .box {
   background-color: #ffffff;
@@ -40,8 +44,8 @@ div.header h2 {
   margin: auto;
   margin-top: 20px;
   margin-bottom: 20px;
-  border: 2px solid #8b8b8b;
-  border-radius: 5px;
+  border: 2px solid #444444;
+  border-radius: 10px;
 }
 img {
   width: 100%;
